@@ -1,0 +1,5 @@
+# exclude everything
+completed/*
+
+# exception to the rule
+!completed/.gitkeep 
